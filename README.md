@@ -1,7 +1,7 @@
 # mlab-ts-api
 [![npm version](https://badge.fury.io/js/mlab-ts-api.svg)](https://badge.fury.io/js/mlab-ts-api)
 [![Downloads](https://img.shields.io/npm/dm/mlab-ts-api.svg)](https://www.npmjs.com/package/mlab-ts-api)
-[![devDependency Status](https://david-dm.org/username/repo.svg)]
+[![devDependency Status](https://david-dm.org/hsalmeida/mlab-ts-api.svg)]
 
 `mlab-ts-api` is a typescript class designed to allow you to access [mLab's Data API](http://docs.mlab.com/data-api/#reference) with minimal overhead.
 
