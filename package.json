@@ -15,8 +15,10 @@
         "javascript"
     ],
     "dependencies": {
-        "@angular-common": "^4.0.1",
-        "@angular-core": "^4.0.1"
+        "@angular/common": "^4.0.1",
+        "@angular/core": "^4.0.1",
+        "rxjs": "^5.3.0",
+        "zone.js": "^0.8.5"
     },
     "devDependencies": {
         "typescript": "^2.2.2"
